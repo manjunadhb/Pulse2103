@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var age = 20;
 
     override func viewDidLoad() {
         super.viewDidLoad()
